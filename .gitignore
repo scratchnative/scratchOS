@@ -1,0 +1,9 @@
+build
+*.iso
+limine.h
+*.elf
+*.o
+*.d
+limine
+*.sb3
+src/output.cpp
